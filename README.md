@@ -1,16 +1,16 @@
-### Hi there 👋
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Kyle O'Malley"
+        self.pronouns = "he/him"
+        self.programmingLanguages = ["Python", "C", "C++", "Rust(beta)"]
+        self.degree = "B.S. Computer Science"
+        self.almaMater = "University of Pittsburgh"
+        self.catCount = 2
 
-<!--
-**jkomalley/jkomalley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    def greet():
+        print("Hello there! Thanks for stopping by!")
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+me = Developer()
+me.greet()
+```
