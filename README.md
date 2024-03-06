@@ -3,7 +3,7 @@
 
 class Developer:
   def __init__(self):
-    self.name = "Kyle O'Malley"
+    self.name = "Kyle"
     self.pronouns = ["he", "him"]
     self.code = ["Python", "C", "C++", "Rust(beta)"]
     self.degree = "B.S. Computer Science"
@@ -27,7 +27,7 @@ me.greet()
 ```
 ```console
 user@github $ python me.py
-My name is Kyle O'Malley (he/him).
+My name is Kyle (he/him).
 Currently, I develop software with Python, C, C++ and Rust(beta).
 I earned my B.S. Computer Science degree from the University of Pittsburgh.
 I have 2 cats that love sitting on my keyboAAAAAAAASAQWQSQQQ
