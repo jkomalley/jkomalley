@@ -5,7 +5,7 @@ class Developer:
   def __init__(self):
     self.name = "Kyle"
     self.pronouns = ["he", "him"]
-    self.code = ["Python", "C", "C++"]
+    self.code = ["Python", "C", "C++", "Rust"]
     self.degree = "B.S. Computer Science"
     self.almaMater = "University of Pittsburgh"
     self.numCats = 2
@@ -28,7 +28,7 @@ me.greet()
 ```console
 user@github $ python me.py
 My name is Kyle (he/him).
-I love writing code in  Python, C and C++.
+I love writing code in  Python, C, C++, and Rust.
 I earned my B.S. Computer Science degree from the University of Pittsburgh.
 I have 2 cats that love sitting on my keyboAAAAAAAASAQWQSQQQ
 ```
